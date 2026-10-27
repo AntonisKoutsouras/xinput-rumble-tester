@@ -1,0 +1,6 @@
+/bin/
+*.log
+xinput-probe.txt
+.vs/
+*.user
+*.suo
